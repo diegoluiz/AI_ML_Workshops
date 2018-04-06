@@ -4,3 +4,6 @@
 [submodule "aws-serverless-workshops"]
 	path = aws-serverless-workshops
 	url = https://github.com/aws-samples/aws-serverless-workshops.git
+[submodule "trip-service-kata"]
+	path = trip-service-kata
+	url = https://github.com/sandromancuso/trip-service-kata.git
