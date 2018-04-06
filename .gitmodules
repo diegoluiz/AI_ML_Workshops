@@ -1,0 +1,6 @@
+[submodule "AI_ML_Workshops"]
+	path = AI_ML_Workshops
+	url = https://github.com/richarvey/AI_ML_Workshops.git
+[submodule "aws-serverless-workshops"]
+	path = aws-serverless-workshops
+	url = https://github.com/aws-samples/aws-serverless-workshops.git
